@@ -1,0 +1,9 @@
+.set
+{
+  display: flex;
+  flex-direction: row;
+}
+a,li
+{
+  text-decoration: none;
+}
